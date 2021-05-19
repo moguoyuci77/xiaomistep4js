@@ -5,8 +5,8 @@ const headers = {
 }
 
 // 账号配置
-const user = ''; // 账号
-const password = ''; // 密码
+const user = '13788817106'; // 账号
+const password = 'zgsxmyddmm'; // 密码
 const STEP = Math.ceil(Math.random() * 10000) + 8000;
 
 const dateObj = new Date();
